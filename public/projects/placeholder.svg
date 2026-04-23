@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none" role="img" aria-label="Vista del proyecto">
+  <rect width="800" height="500" fill="#E8F1FC"/>
+  <rect x="80" y="60" width="640" height="380" rx="12" fill="#F8FAFC" stroke="#94A3B8" stroke-width="2"/>
+  <text x="400" y="260" text-anchor="middle" font-family="system-ui,sans-serif" font-size="20" fill="#64748B">Añadí imágenes en /public/projects/</text>
+</svg>
