@@ -13,6 +13,8 @@ export const technologies: Technology[] = [
   { name: "Docker" },
   { name: "Tailwind CSS" },
   { name: "REST" },
-  { name: "GraphQL" },
-  { name: "Jest" },
+  { name: "Antigravity" },
+  { name: "Claude Code" },
+  { name: "Cursor" },
+  { name: "Stripe" },
 ];
